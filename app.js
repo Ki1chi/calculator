@@ -12,7 +12,8 @@ function divide (num1,num2){
 }
 
 
-function operate(){
+function operate(value1, value2){
+    
     
 }
 
